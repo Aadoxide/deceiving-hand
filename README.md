@@ -14,7 +14,7 @@ Fabric API is not required, and the mod only needs to be installed on the client
 
 ## Installation
 
-Copy `lefty-i-am-not-1.0.0.jar` into your Minecraft `mods` folder. (duh)
+Copy `lian-1.0.0.jar` into your Minecraft `mods` folder. (duh)
 
 ## Building
 
@@ -24,7 +24,7 @@ With Java 25 selected:
 .\gradlew.bat build
 ```
 
-The distributable JAR is written to `build/libs/lefty-i-am-not-1.0.0.jar`.
+The distributable JAR is written to `build/libs/lian-1.0.0.jar`.
 
 ## Why 26.1.2?
 
