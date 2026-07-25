@@ -3,9 +3,9 @@
 	"id": "lefty_i_am_not",
 	"version": "${version}",
 	"name": "Lefty I Am Not",
-	"description": "Keeps first-person item and arm rendering right-handed while preserving the player's actual left main-arm setting.",
+	"description": "Keeps first-person item and arm rendering right-handed while preserving the player's actual left main-arm setting. Licensed under the MIT License.",
 	"authors": [
-		"Aaditya"
+		"@aadoxide (Aaditya Sins)"
 	],
 	"license": "MIT",
 	"environment": "client",
