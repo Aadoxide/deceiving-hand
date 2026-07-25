@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "lefty_i_am_not",
+	"version": "${version}",
+	"name": "Lefty I Am Not",
+	"description": "Keeps first-person item and arm rendering right-handed while preserving the player's actual left main-arm setting.",
+	"authors": [
+		"Aaditya"
+	],
+	"license": "CC0-1.0",
+	"environment": "client",
+	"mixins": [
+		{
+			"config": "lefty_i_am_not.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1.2",
+		"java": ">=25"
+	}
+}
