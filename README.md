@@ -2,7 +2,7 @@
 
 A tiny client side fabric mod for MC Java 26.1.2.
 
-Set **Options → Skin Customization → Main Hand** to **Left** as usual. The setting remains left-handed for third-person rendering and multiplayer, while your own first-person main arm and held item render on the right. The offhand renders on the left.
+Set **Options → Skin Customization → Main Hand** to **Left** as usual. The setting remains left-handed for third-person rendering and multiplayer, while your own first-person main arm and held item render on the right.
 
 ## Requirements
 
@@ -14,7 +14,7 @@ Fabric API is not required, and the mod only needs to be installed on the client
 
 ## Installation
 
-Copy `lefty-i-am-not-1.0.0.jar` into your Minecraft instance's `mods` folder. (duh)
+Copy `lefty-i-am-not-1.0.0.jar` into your Minecraft `mods` folder. (duh)
 
 ## Building
 
