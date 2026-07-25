@@ -1,4 +1,4 @@
-# Lefty, I Am Not
+# Lefty, I Am Not (LIAN)
 
 A tiny client side fabric mod for MC Java 26.1.2.
 
