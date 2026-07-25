@@ -7,7 +7,7 @@
 	"authors": [
 		"Aaditya"
 	],
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"environment": "client",
 	"mixins": [
 		{

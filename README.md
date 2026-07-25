@@ -28,4 +28,4 @@ The distributable JAR is written to `build/libs/lefty-i-am-not-1.0.0.jar`.
 
 ## License
 
-CC0 1.0 Universal.
+Licensed under the [MIT License](LICENSE).
