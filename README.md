@@ -1,12 +1,12 @@
 # Lefty, I Am Not (LIAN)
 
-A tiny client side fabric mod for MC Java 26.1.2.
+A tiny client side fabric mod for MC Java 26.2
 
 Set **Options → Skin Customization → Main Hand** to **Left** as usual. The setting remains left-handed for third-person rendering and multiplayer, while your own first-person main arm and held item render on the right.
 
 ## Requirements
 
-- Minecraft Java Version 26.1.2
+- Minecraft Java Version 26.2
 - Fabric Loader 0.19.3 or newer
 - Java 25
 
@@ -25,10 +25,6 @@ With Java 25 selected:
 ```
 
 The distributable JAR is written to `build/libs/lian-1.0.0.jar`.
-
-## Why 26.1.2?
-
-This mod was just for my personal use, which I decided to upload in github. Feel free to contact me if you want it ported to a different version (discord: aadoxide)
 
 ## License
 
