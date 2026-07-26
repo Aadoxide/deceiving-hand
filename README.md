@@ -26,7 +26,7 @@ With Java 25 selected:
 
 The distributable JAR is written to `build/libs/lian-1.0.0.jar`.
 
-## Why 26.1.2?
+## Why 26.1.2 and 26.2?
 
 This mod was just for my personal use, which I decided to upload in github. Feel free to contact me if you want it ported to a different version (discord: aadoxide)
 
